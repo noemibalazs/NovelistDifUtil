@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NovelistDifUtil</string>
+    <string name="novel_year">Year: %d</string>
+    <string name="novel">Novel: %s</string>
+    <string name="sort_name">Sort by name</string>
+    <string name="sort_year">Sort by year</string>
+    <string name="sort_novel">Sort by novel</string>
+</resources>
